@@ -1,2 +1,2 @@
 # flaneur
-Test application on .net with tests.
+Test application on .net 10 with tests.
